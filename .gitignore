@@ -1,0 +1,7 @@
+# Dependencies
+node_modules/
+
+# Optional other ignores
+.DS_Store
+.env
+*.log
